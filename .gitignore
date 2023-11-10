@@ -1,0 +1,10 @@
+# no vim swapfiles plz
+*.swp
+
+# no object files or binaries
+*.o
+*.elf
+
+Obj/
+
+*.wsdt
